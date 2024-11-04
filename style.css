@@ -706,6 +706,15 @@ footer span a:hover{
     .portfolio .portfolio-content .card{
         width: 100%;
     }
+    .about .about-content .right .text{
+        text-align: center;
+    }
+    .contact .title::after{
+        content: "";
+    }
+    .skills .title::after{
+        content: "";
+    }
 }
 
 @media (max-width: 500px) {
